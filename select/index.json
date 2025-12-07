@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ADVISE [Remix]",
+  "base_artist": "Red Eye",
+  "createdAt": "2025-12-07T01:39:52.473426Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ADVISE - Remix",
+      "artist": "Red Eye, Arare",
+      "has_synced": false,
+      "path": "select/pl_01_ADVISE_-_Remix_Red_Eye,_Arare.txt"
+    }
+  ]
+}
